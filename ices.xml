@@ -11,10 +11,19 @@
 	<description></description>
 	<url></url>
  </metadata>
- <param name="type">basic</param>
- <param name="file"></param>
- <param name="random"></param>
- <param name="once"></param>
- <param name="restart-after-reread">1</param>
+ <input>
+   <module>playlist</module>
+   <param name="type">basic</param>
+   <param name="file"></param>
+   <param name="random"></param>
+   <param name="once"></param>
+   <param name="restart-after-reread">1</param>
+ </input>
+ <instance>
+	 <hostname></hostname>
+         <port></port>
+         <password></password>
+         <mount></mount>
+ </instance>
 </stream>
 </ices>
