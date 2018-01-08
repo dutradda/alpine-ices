@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ices>
+<background>0</background>
+<loglevel>3</loglevel>
+<consolelog>1</consolelog>
+
+<stream>
+ <metadata>
+	<name></name>
+	<genre></genre>
+	<description></description>
+	<url></url>
+ </metadata>
+ <param name="type">basic</param>
+ <param name="file"></param>
+ <param name="random"></param>
+ <param name="once"></param>
+ <param name="restart-after-reread">1</param>
+</stream>
+</ices>
